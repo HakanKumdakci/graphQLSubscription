@@ -1,0 +1,6 @@
+subscription trackCoin($ep: Int!) {
+    bookTitleChanged(input: $ep){
+        id,
+        title
+    }
+}

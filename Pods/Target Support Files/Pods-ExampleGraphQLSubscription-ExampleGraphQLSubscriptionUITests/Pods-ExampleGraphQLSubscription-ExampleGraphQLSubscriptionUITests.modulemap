@@ -1,0 +1,6 @@
+framework module Pods_ExampleGraphQLSubscription_ExampleGraphQLSubscriptionUITests {
+  umbrella header "Pods-ExampleGraphQLSubscription-ExampleGraphQLSubscriptionUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

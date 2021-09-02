@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_ExampleGraphQLSubscription_ExampleGraphQLSubscriptionUITests : NSObject
+@end
+@implementation PodsDummy_Pods_ExampleGraphQLSubscription_ExampleGraphQLSubscriptionUITests
+@end
